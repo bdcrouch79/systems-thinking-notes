@@ -1,0 +1,12 @@
+graph TD
+
+User --> CommandCenter
+CommandCenter --> Top3
+CommandCenter --> Recurring
+CommandCenter --> NightlyReview
+
+Top3 --> ExecutionScore
+Recurring --> DisciplineLoop
+
+ExecutionScore --> Insights
+NightlyReview --> Insights
