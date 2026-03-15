@@ -12,3 +12,8 @@ This repository functions more like a technical notebook than a traditional soft
 - AI-assisted workflows
 
 The goal is to document ideas and small experiments rather than build production software.
+
+
+## Diagrams
+
+Some early architectural sketches live in the \diagrams/\ directory.
