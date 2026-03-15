@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cd-mark.png" width="90">
+</p>
 # systems-thinking-notes
 
 Working notes and small experiments exploring ideas around systems design, automation, and applied AI.
@@ -35,4 +38,5 @@ These projects are intentionally lightweight and are used to explore:
 • execution systems
 
 https://crouchdevelopment.com
+
 
